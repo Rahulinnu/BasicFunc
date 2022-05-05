@@ -32,6 +32,16 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FlipCoin.cs" />
+    <Compile Include="LeapYear.cs" />
+    <Compile Include="PowerOfTwo.cs" />
+    <Compile Include="HarmonicNumber.cs" />
+    <Compile Include="Factors.cs" />
+    <Compile Include="QuotientRemainder.cs" />
+    <Compile Include="SwapNumbers.cs" />
+    <Compile Include="EvenOrOdd.cs" />
+    <Compile Include="AlphaCons.cs" />
+    <Compile Include="LargestThree.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
